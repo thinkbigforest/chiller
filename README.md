@@ -17,5 +17,6 @@ The most direct result of the reduction in the flow of condenser water is that t
 The most direct result of the reduction in the flow of evaporator water is that the heat exchange efficiency of the evaporator is reduced, the evaporation rate of the refrigerant is slowed down, and the cooling power of the evaporator is reduced. As the flow rate de-creases, the evaporating pressure becomes smaller, and the outlet temperature of the evaporator water also decreases. When the variation of the compressor power is smaller than the decrease of the condenser power of the evaporator, the COP will also decrease. The result of its failure is that a large amount of cooling capacity is wasted and the cooling efficiency is reduced.
 ## condenser fouling
 The condenser fouling affects the heat exchange effect, resulting in an increase in the condensing temperature of the unit, which in turn leads to a decrease in the cooling ca-pacity and an increase in the power consumption of the unit. resistance, increasing the energy consumption of the circulating water pump.
-
+## refrigerant leakage
+The parameters sensitive to refrigerant leakage are PRC and TCA. The failure has minimal impact on chiller performance, but the release of refrigerant gas into the environment increases the greenhouse effect. Simulation of refrigerant leakage The refrigerant leakage is simulated by reducing Rm (total refrigerant mass), decreasing the total refrigerant mass with a gradient of 10%, observing PRC and TCA.
 
